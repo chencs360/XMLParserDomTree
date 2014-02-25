@@ -1,0 +1,12 @@
+Node Type is 9 Node Name is simple Child address is 0064A010 
+Going to Child of simple
+Node Type is 1 Node Name is <root> Child address is 0064A130 
+Going to Child of <root>
+Node Type is 1 Node Name is <book> Child address is 0064A2F0 
+Going to Child of <book>
+Node Type is 8 Node Name is <!--commenttest--> Sibling address is 0064A458 
+Going to Sibling of <!--commenttest-->
+Node Type is 1 Node Name is <two> Sibling address is 0064A520 
+Going to Sibling of <two>
+Node Type is 1 Node Name is <three> Data is hi bro
+ 
